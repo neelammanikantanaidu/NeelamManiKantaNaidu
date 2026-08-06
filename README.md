@@ -11,9 +11,9 @@
 
 ### 🛡️ Cyber Security Student | Ethical Hacker in Training | ECE Background
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](http://neelammanikantanaidu.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manikantanaiduneelam.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouthamneelam17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikantanaidu453)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelammanikantanaidu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeelamManiKantaNaidu)
 
 <img src="https://komarev.com/ghpvc/?username=NeelamManiKantaNaidu&style=for-the-badge&color=00ff9c" alt="Profile views"/>
@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  I am a <b>4th-year B.Tech Cyber Security</b> student at <b>A.M. Reddy Memorial College of Engineering & Technology</b> with a strong foundation in Electronics & Communication Engineering.
+  I am a <b>3rd-year B.Tech Cyber Security</b> student at <b>A.M. Reddy Memorial College of Engineering & Technology</b> with a strong foundation in Electronics & Communication Engineering.
 </p>
 
 - Currently building **security testing tools and automation scripts**
@@ -210,13 +210,13 @@
 <div align="center">
   <h2> Connect with Me</h2>
   
-  <a href="http://neelammanikantanaidu.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/>
+  <a href="https://manikantanaiduneelam.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:gouthamneelam17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/manikantanaidu453">
+  <a href="https://www.linkedin.com/in/neelammanikantanaidu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/NeelamManiKantaNaidu">
