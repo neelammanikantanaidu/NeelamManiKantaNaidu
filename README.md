@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RuZjZrbXB0aHhpYmx1ZzE5bGwwYndwb2VpYzZvM3o3Z2Z6Y2xxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Reddy Memorial College of Engineering & Technology.
+I'm a passionate **Cyber Security student** in my 4th year of B.Tech at A.M. Reddy Memorial College of Engineering & Technology.
 
 - 📫 How to reach me: **gouthamneelam17@gmail.com**
 - ⚡ Fun fact: I believe in **"learning by breaking and rebuilding"**
