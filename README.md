@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NEELAM+MANIKANTA+NAIDU!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+There!+👋;I'm+NEELAM+MANIKANTA+NAIDU;Cyber+Security+Enthusiast;Ethical+Hacker+in+Training" />
 </h1>
 
 <h3 align="center">A passionate Cyber Security Student & Ethical Hacker from India</h3>
@@ -31,8 +31,12 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RuZjZrbXB0aHhpYmx1ZzE5bGwwYndwb2VpYzZvM3o3Z2Z6Y2xxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a passionate **Cyber Security student** in my 4th year of B.Tech at A.M. Reddy Memorial College of Engineering & Technology.
+I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Reddy Memorial College of Engineering & Technology.
 
+- 🔭 I'm currently working on **Security Testing Tools & Automation**
+- 🌱 I'm currently learning **Advanced Penetration Testing & Network Security**
+- 👯 I'm looking to collaborate on **Open Source Security Projects**
+- 💬 Ask me about **Python, Network Security, IoT Security**
 - 📫 How to reach me: **gouthamneelam17@gmail.com**
 - ⚡ Fun fact: I believe in **"learning by breaking and rebuilding"**
 
@@ -46,47 +50,50 @@ I'm a passionate **Cyber Security student** in my 4th year of B.Tech at A.M. Red
 
 <h3 align="center">🛡️ Cyber Security Core</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethical_Hacking_Learning-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Network_Security_Basic-00A86B?style=for-the-badge&logo=cisco&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Security_Analysis_learning-4B0082?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-00A86B?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Analysis-4B0082?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-FF6B6B?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
 <h3 align="center">💻 Programming & Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Full_Stack-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=html5&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center">🌐 Networking</h3>
+<h3 align="center">🌐 Networking & Security Tools</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/NMap-00416A?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Network_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network_Configuration-0078D4?style=for-the-badge&logo=fortinet&logoColor=white" />
- 
   <img src="https://img.shields.io/badge/VPN-512BD4?style=for-the-badge&logo=openvpn&logoColor=white" />
 </p>
 
 <h3 align="center">🔌 IoT & Hardware</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/IoT_Systems-00A98F?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Embedded_Systems-0066B3?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Circuit_Design-FFA500?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB_Design-FFA500?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 <h3 align="center">⚙️ Tools & Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Nmap_Basic-00416A?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite_Basic-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <div align="center">
@@ -98,72 +105,72 @@ I'm a passionate **Cyber Security student** in my 4th year of B.Tech at A.M. Red
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">🖐️ Touchless Controller</h3>
+      <h3 align="center">🛡️ Phishing Detector Chrome Extension</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200px">
+        <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200px">
         <p>
-          <a href="https://github.com/NeelamManiKantaNaidu/touchless-controller" target="_blank">
+          <a href="https://github.com/NeelamManiKantaNaidu/Phishing-Detector-Chrome-Extension" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
-        <p>An innovative system using camera and voice to control laptops and IoT devices without physical contact. Combines computer vision and voice recognition for hands-free operation.</p>
+        <p>Built a Chrome extension to detect phishing websites using URL analysis and security checks with real-time threat detection.</p>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-          <img src="https://img.shields.io/badge/IoT-00A98F?style=flat&logo=raspberrypi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Security-FF0000?style=flat&logo=hackthebox&logoColor=white"/>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📸 Camera Phishing Tool</h3>
+      <h3 align="center">📸 Cam Tracker</h3>
       <div align="center">
         <img src="https://media.giphy.com/media/ZvU5gJBGbAwZW49M3f/giphy.gif" width="200px">
         <p>
-          <a href="https://github.com/NeelamManiKantaNaidu/camera-phishing-tool" target="_blank">
+          <a href="https://github.com/NeelamManiKantaNaidu/Cam-Tracker" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
-        <p>A security research project demonstrating camera-based phishing techniques to raise awareness about webcam security vulnerabilities and protection methods.</p>
+        <p>Created a real-time object tracking system using computer vision techniques with OpenCV for accurate motion detection and tracking.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Security-FF0000?style=flat&logo=hackthebox&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Ethical_Hacking-4B0082?style=flat&logo=kalilinux&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Computer_Vision-00A98F?style=flat"/>
         </p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Automation Systems</h3>
+      <h3 align="center">🖐️ Touchless Control System</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200px">
+        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200px">
         <p>
-          <a href="https://github.com/NeelamManiKantaNaidu/automation-systems" target="_blank">
+          <a href="https://github.com/NeelamManiKantaNaidu/Touchless-Control-System" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
-        <p>Developed smart automation solutions for home and industrial applications, integrating IoT devices with security protocols to create intelligent, secure environments.</p>
+        <p>Designed a gesture-based control system using camera input for hands-free interaction with devices and applications.</p>
         <p>
-          <img src="https://img.shields.io/badge/IoT-00A98F?style=flat&logo=raspberrypi&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Security-00A86B?style=flat&logo=cisco&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gesture_Control-4B0082?style=flat"/>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🛡️ Security Testing Suite</h3>
+      <h3 align="center">🤖 Artificial Cat Project</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200px">
+        <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200px">
         <p>
-          <a href="https://github.com/NeelamManiKantaNaidu/security-testing-suite" target="_blank">
+          <a href="https://github.com/NeelamManiKantaNaidu/Artificial-Cat-Project" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
-        <p>Collection of tools and scripts for penetration testing, vulnerability assessment, and security auditing developed during industrial training and personal projects.</p>
+        <p>Developed an AI-based virtual assistant simulating user interaction using Python with natural language processing capabilities.</p>
         <p>
-          <img src="https://img.shields.io/badge/Penetration_Testing-FF6B6B?style=flat&logo=metasploit&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Network_Analysis-00B5E2?style=flat&logo=wireshark&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AI-00A86B?style=flat&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat"/>
         </p>
       </div>
     </td>
@@ -183,26 +190,55 @@ I'm a passionate **Cyber Security student** in my 4th year of B.Tech at A.M. Red
       <ul>
         <li>
           <details>
-            <summary><b>📜 IoT & Industry 4.0</b> - NPTEL (Score: 67%) | 2024</summary>
+            <summary><b>📜 Artificial Intelligence (AI) for Management</b> - NPTEL (Score: 75%) | 2024</summary>
+            <br>
+            <img src="https://img.shields.io/badge/Status-Completed-00A86B?style=flat" />
+            <img src="https://img.shields.io/badge/Score-75%25-FFD700?style=flat" />
+            <img src="https://img.shields.io/badge/Platform-NPTEL-FF6B6B?style=flat" />
+          </details>
+        </li>
+        <br>
+        <li>
+          <details>
+            <summary><b>📜 Industrial Internet of Things (IIoT) 4.0</b> - NPTEL | 2024</summary>
             <br>
             <img src="https://img.shields.io/badge/Status-Completed-00A86B?style=flat" />
             <img src="https://img.shields.io/badge/Platform-NPTEL-FF6B6B?style=flat" />
           </details>
         </li>
+        <br>
+        <li>
+          <details>
+            <summary><b>🐍 Python Full Stack Intern</b> - Data Valley (2 Months) | 2024</summary>
+            <br>
+            <img src="https://img.shields.io/badge/Status-Completed-00A86B?style=flat" />
+            <img src="https://img.shields.io/badge/Duration-2_Months-FFD700?style=flat" />
+            <img src="https://img.shields.io/badge/Type-Internship-4B0082?style=flat" />
+          </details>
+        </li>
+        <br>
+        <li>
+          <details>
+            <summary><b>📜 PCB Design Intern</b> - I-lite PVT Limited | 2023</summary>
+            <br>
+            <img src="https://img.shields.io/badge/Status-Completed-00A86B?style=flat" />
+            <img src="https://img.shields.io/badge/Type-Internship-4B0082?style=flat" />
+          </details>
+        </li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Experience</h3>
+      <h3>💼 Experience & Training</h3>
       <ul>
         <li>
           <details>
-            <summary><b>PCB Design Training</b> - iLite India Pvt. Ltd. | 2023-2024</summary>
+            <summary><b>🔧 PCB Design Training</b> - iLite India Pvt. Ltd. | 2023-2024</summary>
             <br>
             <ul>
-              <li>Completed hands-on penetration testing exercises</li>
-              <li>Learned network security protocols and implementation</li>
-              <li>Developed security assessment skills</li>
-              <li>Gained practical experience with industry-standard tools</li>
+              <li>Completed hands-on PCB design and circuit development</li>
+              <li>Learned industry-standard design tools and techniques</li>
+              <li>Developed practical hardware design skills</li>
+              <li>Gained experience with embedded systems design</li>
             </ul>
           </details>
         </li>
