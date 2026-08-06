@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  I am a <b>3rd-year B.Tech Cyber Security</b> student at <b>A.M. Reddy Memorial College of Engineering & Technology</b> with a strong foundation in Electronics & Communication Engineering.
+  I am a <b>4th-year B.Tech Cyber Security</b> student at <b>A.M. Reddy Memorial College of Engineering & Technology</b> with a strong foundation in Electronics & Communication Engineering.
 </p>
 
 - Currently building **security testing tools and automation scripts**
