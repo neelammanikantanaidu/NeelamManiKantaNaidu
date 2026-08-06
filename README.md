@@ -33,9 +33,6 @@
 
 I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Reddy Memorial College of Engineering & Technology.
 
-
-
-
 - 📫 How to reach me: **gouthamneelam17@gmail.com**
 - ⚡ Fun fact: I believe in **"learning by breaking and rebuilding"**
 
@@ -232,11 +229,19 @@ I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Red
   <tr>
     <td>
       <b>🎓 B.Tech in Cyber Security (3rd Year)</b><br>
-      A.M. Reddy Memorial College of Engineering & Technology
+      A.M. Reddy Memorial College of Engineering & Technology<br>
+      <i>2024 - 2027 | Percentage: 73.2%</i>
     </td>
     <td>
-      <b>📘 Diploma in ECE (71%)</b><br>
-      Government Polytechnic, Parvathipuram
+      <b>📘 Diploma in ECE</b><br>
+      Government Polytechnic, Parvathipuram<br>
+      <i>2021 - 2024 | Percentage: 70.3%</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>📚 SSC</b><br>
+      <i>2021 | CGPA: 9.3</i>
     </td>
   </tr>
 </table>
